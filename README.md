@@ -34,10 +34,3 @@ ResQ-Campus, üniversite kampüslerinde gün sonunda kalan taze yemek ve fırın
 
 ---
 
-## 💻 Yerel Kurulum
-
-Projeyi yerel makinenizde çalıştırmak için ekstra bir kurulum gerekmez:
-
-1. Bu depoyu klonlayın veya `.zip` olarak indirin:
-   ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/resq-campus.git](https://github.com/KULLANICI_ADINIZ/resq-campus.git)
