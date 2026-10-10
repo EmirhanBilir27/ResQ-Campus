@@ -2,7 +2,7 @@
 
 > **Kampüs Sürdürülebilirlik ve İndirimli Gıda Kurtarma Modülü**
 
-ResQ-Campus, üniversite kampüslerinde gün sonunda kalan taze yemek ve fırın ürünlerinin israf edilmesini önlemek; öğrencilere uygun fiyatlı gıda erişimi sağlarken karbon ayak izini azaltmak amacıyla tasarlanmış iOS Safari uyumlu bir web simülasyonudur.
+ResQ-Campus, üniversite kampüslerinde gün sonunda kalan taze yemek ve fırın ürünlerinin israf edilmesini önlemek; öğrencilere uygun fiyatlı gıda erişimi sağlarken karbon ayak izini azaltmak amacıyla tasarlanmış bir web simülasyonudur.
 
 ---
 
@@ -20,7 +20,7 @@ ResQ-Campus, üniversite kampüslerinde gün sonunda kalan taze yemek ve fırın
 * **QR Doğrulama Simülatörü:** Öğrenci QR kodlarını kamera simülatörü üzerinden taratarak sipariş teslimi gerçekleştirme.
 
 ### 📱 Arayüz & Tasarım
-* iOS Safari tam uyumlu duyarlı mobil görünüm.
+* Tam uyumlu mobil görünüm.
 * Mobil çerçeve ve tam ekran modu arasında tek tıkla geçiş olanağı.
 
 ---
